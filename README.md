@@ -4,4 +4,4 @@ py基础
 
 
 
-命令行执行：jupyter notebook
+命令行执行：jupyter-notebook
